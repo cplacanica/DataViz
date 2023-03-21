@@ -26,3 +26,4 @@ def submit_survey():
     
     # Redirect the user to a thank you page
     return render_template('thank_you.html')
+print("hello")
